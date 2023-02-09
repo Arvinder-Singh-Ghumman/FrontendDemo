@@ -1,3 +1,14 @@
+# Frontend Project
+
+- This is a  Demo front end website and was done as a assignment to make the same interface as one of the figma designs and is not completely functional even though some things like nav links do work.
+- This is not fully optimized for a mobile device and thus viewing it on mobile devices may give you a bad experience even though it will still be ok to view main contents.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
